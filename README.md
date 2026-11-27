@@ -114,6 +114,7 @@ The three datasets are connected through the original Condition_ID field.
 Unique identifiers were also generated for the two related datasets:
 
 **REL-0001** onwards for Related Topics.
+
 **RES-0001** onwards for Healthcare Resources.
 
 This structure preserves the relationships between the main health conditions and their associated records.
@@ -132,7 +133,8 @@ The following checks were performed:
 Missing values from the original source were retained rather than replaced with unsupported information.
 
 The validation process confirmed that the generated identifiers were unique and that the main condition identifiers in the Related Topics and Healthcare Resources datasets matched records in the Health Conditions dataset.
-Repository Contents.
+
+**Repository Contents**
 
 | File | Description |
 | --- | --- |
