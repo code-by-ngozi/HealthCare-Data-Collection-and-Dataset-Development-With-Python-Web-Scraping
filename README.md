@@ -134,7 +134,7 @@ Missing values from the original source were retained rather than replaced with 
 
 The validation process confirmed that the generated identifiers were unique and that the main condition identifiers in the Related Topics and Healthcare Resources datasets matched records in the Health Conditions dataset.
 
-**Repository Contents**
+## Repository Contents
 
 | File | Description |
 | --- | --- |
