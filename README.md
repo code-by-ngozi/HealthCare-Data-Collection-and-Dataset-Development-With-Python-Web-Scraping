@@ -143,7 +143,6 @@ The validation process confirmed that the generated identifiers were unique and 
 | Healthcare_Dataset.xlsx  | Final Excel workbook containing three datasets |
 | Healthcare_web_scraping_documentation.pdf | Detailed project methodology and documentation |
 | requirements.txt | Python libraries required to run the project |
-| .gitignore | Files and folders excluded from version control |
 
 The original XML file is not included in the repository. It can be obtained from the MedlinePlus XML source.
 
