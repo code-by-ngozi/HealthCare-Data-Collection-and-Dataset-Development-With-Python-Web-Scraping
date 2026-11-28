@@ -1,4 +1,4 @@
-# HealthCare-Data-Collection-and-Dataset-Development-With-Python-Web-Scraping
+# HealthCare Data Collection and Dataset Development With Python Web Scraping
 ## Overview
 This project involved collecting, extracting, cleaning, and organizing healthcare information from the MedlinePlus Health Topics XML dataset using Python.
 
